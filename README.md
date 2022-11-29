@@ -24,6 +24,7 @@ The design has been printed with success in PLA.
 - Use the `.stl` files for printing (See Releases)
 - Use the `.FCStd` files for modifying the design (FreeCAD 20.1)
 
+This was my first design using FreeCAD so there are things which should be done differently, but which I'm not going to go back and fix for now (such as fillets mixed in, instead of all last).
 
 ## Screws
 To avoid scratching the inside of the cartridge slot use screws with a pan head of ~1.2mm or less (so they fit completely within the screw hole recesses). 
