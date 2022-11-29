@@ -16,7 +16,7 @@ Until now there have been no aftermarket Cartridge Shells available for the Mega
 ## 3D Printing and Design
 The design has been printed with success in PLA.
 
-- Use the `.stl` files for printing (See [Releases](/releases))
+- Use the `.stl` files for printing (See [Releases](https://github.com/bbbbbr/megaduck_cartridge_shell/releases))
 - Use the `.FCStd` files for modifying the design (FreeCAD 20.1)
 
 This was my first design using FreeCAD so there are things which should be done differently, but which I'm not going to go back and fix for now (such as fillets mixed in, instead of all last).
